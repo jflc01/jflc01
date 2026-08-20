@@ -1,4 +1,4 @@
-# Hi, I'm Felipe 👋
+# Hi, I'm Juan Felipe 👋
 
 ### Mechanical Engineer → Data Analyst | Industrial & Engineering Data
 
