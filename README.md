@@ -48,13 +48,6 @@ Building a portfolio of data analysis projects centered on industrial and engine
 
 ---
 
-## 📈 GitHub Stats
-
-![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jflc01&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jflc01&layout=compact&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 Open to conversations about data analysis, industrial automation, and engineering — reach out on [LinkedIn](https://www.linkedin.com/in/juanlizcanoc/).
