@@ -1,10 +1,25 @@
-# Hi, I'm Juan 👋
+# Hi, I'm Felipe 👋
 
 ### Mechanical Engineer → Data Analyst | Industrial & Engineering Data
 
 I'm a mechanical engineer applying data analysis to industrial and engineering problems — combining hands-on domain experience with Python, SQL, and BI tools to turn operational data into decisions.
 
 📍 Colombia &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/juanlizcanoc/) &nbsp;|&nbsp; ✉️ juanlizcanoengineer@hotmail.com
+
+---
+
+## 📊 Featured Projects
+
+<!--
+Add one block per project once it's ready. Keep it to one line of context —
+the recruiter should understand the problem and result in 5 seconds.
+
+### [Project Title](https://github.com/jflc01/repo-name)
+One-line description of the problem and the result/insight you found.
+**Stack:** Python · Pandas · Power BI
+-->
+
+*🚧 Projects launching soon — check back here or browse [pinned repositories](https://github.com/jflc01?tab=repositories) below.*
 
 ---
 
@@ -30,6 +45,13 @@ Building a portfolio of data analysis projects centered on industrial and engine
 ## 🎓 Certifications
 
 - **Data Analysis Level 1 — Using Jupyter Notebook** [🔗 Add verification link]
+
+---
+
+## 📈 GitHub Stats
+
+![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jflc01&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jflc01&layout=compact&hide_border=true)
 
 ---
 
